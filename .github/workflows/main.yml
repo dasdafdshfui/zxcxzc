@@ -1,5 +1,1 @@
-git init
-git remote add origin https://github.com/<your‑name>/<your‑repo>.git
-git add .
-git commit -m "initial"
-git push -u origin main
+
